@@ -3,7 +3,7 @@ Hunter Clezie
 Spring 2026
 RCET2265
 MultiplicationTable
-github url:
+github url: https://github.com/hunterclezie-pixel/FortuneCookie.git
 */
 using System.Runtime.Intrinsics.Arm;
 
