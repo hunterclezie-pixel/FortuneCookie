@@ -1,4 +1,11 @@
-﻿using System.Runtime.Intrinsics.Arm;
+﻿/* 
+Hunter Clezie 
+Spring 2026
+RCET2265
+MultiplicationTable
+github url:
+*/
+using System.Runtime.Intrinsics.Arm;
 
 namespace FortuneCookie
 {
